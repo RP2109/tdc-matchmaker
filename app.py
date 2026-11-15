@@ -130,7 +130,10 @@ with tab1:
     with right:
         if st.session_state.last:
             msg = st.session_state.last
-            st.success(msg) if msg.startswith("Accepted") else st.info(msg)
+            if msg.startswith("Accepted"):
+                st.success(msg)
+            else:
+                st.info(msg)
             st.session_state.last = None
 
         seen = {h["candidate_id"] for h in history if h["client_id"] == cid}
