@@ -1,0 +1,173 @@
+[
+  {
+    "id": "C1",
+    "name": "Priya Sharma",
+    "gender": "F",
+    "age": 29,
+    "city": "Delhi",
+    "religion": "Hindu",
+    "matchmaker": "A",
+    "hard": {
+      "age_min": 29,
+      "age_max": 35,
+      "religions": [
+        "Hindu",
+        "Jain"
+      ],
+      "cities": [
+        "Delhi",
+        "Gurgaon",
+        "Noida"
+      ],
+      "no_smoking": true,
+      "wants_children": "yes"
+    },
+    "soft": {
+      "min_education": "Master's",
+      "professions": [
+        "Software Engineer",
+        "Product Manager",
+        "Consultant",
+        "Doctor"
+      ],
+      "drinking_ok": [
+        "never",
+        "occasionally"
+      ],
+      "min_income_lpa": 25
+    }
+  },
+  {
+    "id": "C2",
+    "name": "Aditya Mehra",
+    "gender": "M",
+    "age": 32,
+    "city": "Mumbai",
+    "religion": "Hindu",
+    "matchmaker": "B",
+    "hard": {
+      "age_min": 25,
+      "age_max": 32,
+      "religions": [
+        "Hindu"
+      ],
+      "cities": [
+        "Mumbai",
+        "Pune"
+      ],
+      "no_smoking": true,
+      "diet": [
+        "veg",
+        "eggetarian"
+      ]
+    },
+    "soft": {
+      "min_education": "Bachelor's",
+      "drinking_ok": [
+        "never",
+        "occasionally"
+      ]
+    }
+  },
+  {
+    "id": "C3",
+    "name": "Simran Kaur",
+    "gender": "F",
+    "age": 31,
+    "city": "Gurgaon",
+    "religion": "Sikh",
+    "matchmaker": "A",
+    "hard": {
+      "age_min": 31,
+      "age_max": 38,
+      "religions": [
+        "Sikh",
+        "Hindu"
+      ],
+      "cities": [
+        "Delhi",
+        "Gurgaon",
+        "Chandigarh"
+      ]
+    },
+    "soft": {
+      "min_education": "Bachelor's",
+      "professions": [
+        "Business Owner",
+        "Lawyer",
+        "Chartered Accountant",
+        "Banker"
+      ],
+      "min_income_lpa": 30
+    }
+  },
+  {
+    "id": "C4",
+    "name": "Rahul Verma",
+    "gender": "M",
+    "age": 30,
+    "city": "Bangalore",
+    "religion": "Hindu",
+    "matchmaker": "B",
+    "hard": {
+      "age_min": 25,
+      "age_max": 31,
+      "religions": [
+        "Hindu",
+        "Jain"
+      ],
+      "cities": [
+        "Bangalore",
+        "Hyderabad",
+        "Pune"
+      ],
+      "no_smoking": true,
+      "diet": [
+        "veg",
+        "eggetarian"
+      ],
+      "wants_children": "yes"
+    },
+    "soft": {
+      "min_education": "Bachelor's",
+      "drinking_ok": [
+        "never"
+      ]
+    }
+  },
+  {
+    "id": "C5",
+    "name": "Neha Gupta",
+    "gender": "F",
+    "age": 27,
+    "city": "Pune",
+    "religion": "Hindu",
+    "matchmaker": "B",
+    "hard": {
+      "age_min": 27,
+      "age_max": 33,
+      "religions": [
+        "Hindu"
+      ],
+      "cities": [
+        "Pune",
+        "Mumbai"
+      ],
+      "no_smoking": true
+    },
+    "soft": {
+      "min_education": "Bachelor's",
+      "professions": [
+        "Software Engineer",
+        "Doctor",
+        "Banker",
+        "Civil Servant"
+      ],
+      "drinking_ok": [
+        "never",
+        "occasionally"
+      ],
+      "min_income_lpa": 20
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "client_id": "C1",
+    "candidate_id": "M141",
+    "outcome": "rejected",
+    "feedback": "He's quite short, I'd prefer someone taller."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M142",
+    "outcome": "rejected",
+    "feedback": "Nice profile but height is an issue for me."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M143",
+    "outcome": "rejected",
+    "feedback": "Not sure, seems a bit short in the photos."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M144",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F091",
+    "outcome": "rejected",
+    "feedback": "Too young, feels like a big age gap for me."
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F092",
+    "outcome": "rejected",
+    "feedback": "She seems a little immature, too young honestly."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M145",
+    "outcome": "rejected",
+    "feedback": "Runs his own startup, I want someone with a stable job."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M146",
+    "outcome": "rejected",
+    "feedback": "Business family, not looking for that. Prefer a stable career."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M147",
+    "outcome": "rejected",
+    "feedback": "Profile says he drinks regularly, that's not for me."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M148",
+    "outcome": "rejected",
+    "feedback": "Too much of a party person, drinks a lot."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M029",
+    "outcome": "rejected",
+    "feedback": "Very busy at work this month, can we pause for a bit?"
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M092",
+    "outcome": "rejected",
+    "feedback": "Too young for me, outside the age range I gave."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M081",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M082",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M012",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M139",
+    "outcome": "rejected",
+    "feedback": "Not my type, didn't feel any connection from the profile."
+  },
+  {
+    "client_id": "C1",
+    "candidate_id": "M056",
+    "outcome": "rejected",
+    "feedback": "Looks are not what I'm looking for."
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F034",
+    "outcome": "rejected",
+    "feedback": "Too young for me, outside the age range I gave."
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F073",
+    "outcome": "rejected",
+    "feedback": "He smokes. I clearly mentioned no smokers."
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F048",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F074",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F088",
+    "outcome": "rejected",
+    "feedback": "Not my type, didn't feel any connection from the profile."
+  },
+  {
+    "client_id": "C2",
+    "candidate_id": "F057",
+    "outcome": "rejected",
+    "feedback": "Looks are not what I'm looking for."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M092",
+    "outcome": "rejected",
+    "feedback": "Too young for me, outside the age range I gave."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M128",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M126",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M048",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M061",
+    "outcome": "rejected",
+    "feedback": "Not my type, didn't feel any connection from the profile."
+  },
+  {
+    "client_id": "C3",
+    "candidate_id": "M013",
+    "outcome": "rejected",
+    "feedback": "Looks are not what I'm looking for."
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F090",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F008",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F075",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F079",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F072",
+    "outcome": "rejected",
+    "feedback": "Not my type, didn't feel any connection from the profile."
+  },
+  {
+    "client_id": "C4",
+    "candidate_id": "F062",
+    "outcome": "rejected",
+    "feedback": "Looks are not what I'm looking for."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M090",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M035",
+    "outcome": "rejected",
+    "feedback": "Lives in another city, I told you I won't relocate."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M115",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M018",
+    "outcome": "accepted",
+    "feedback": ""
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M002",
+    "outcome": "rejected",
+    "feedback": "Not my type, didn't feel any connection from the profile."
+  },
+  {
+    "client_id": "C5",
+    "candidate_id": "M118",
+    "outcome": "rejected",
+    "feedback": "Looks are not what I'm looking for."
+  }
+]
